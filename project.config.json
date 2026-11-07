@@ -1,0 +1,11 @@
+{
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "projectname": "weapp-sqlite-classic-dev-repro",
+  "miniprogramRoot": "dist/",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "compileHotReLoad": true
+  }
+}

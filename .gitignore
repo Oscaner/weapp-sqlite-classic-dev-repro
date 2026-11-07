@@ -1,0 +1,5 @@
+node_modules
+dist
+.weapp-vite
+src/shared/__weapp_sqlite__
+src/__weapp_sqlite_loader__

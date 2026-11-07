@@ -1,0 +1,15 @@
+{
+  "name": "weapp-sqlite-classic-dev-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wv dev",
+    "build": "wv build"
+  },
+  "dependencies": {
+    "@weapp-sqlite/weapp-vite": "0.3.1"
+  },
+  "devDependencies": {
+    "weapp-vite": "7.8.0"
+  }
+}

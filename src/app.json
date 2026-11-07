@@ -1,0 +1,7 @@
+{
+  "pages": ["pages/index/index"],
+  "subPackages": [
+    { "root": "shared", "name": "shared", "pages": ["pages/engine/index"] }
+  ],
+  "window": {}
+}
